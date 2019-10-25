@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "alamofire": "git+https://github.com/mushinz/Alamofire.git"
+  },
   "name": "razer_thirdpartysdk_ios",
   "version": "1.0.0",
   "description": "Razer IOS SDK fork",
