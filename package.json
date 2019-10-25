@@ -1,7 +1,15 @@
 {
   "name": "razer_thirdpartysdk_ios",
   "version": "1.0.0",
-  "description": "Razer iOS SDK Fork",
-  "author": "Wasder AB",
-  "license": "Razer",
+  "description": "Razer IOS SDK fork",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushinz/razer_thirdpartysdk_ios.git"
+  },
+  "author": "Hugo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushinz/razer_thirdpartysdk_ios/issues"
+  },
+  "homepage": "https://github.com/mushinz/razer_thirdpartysdk_ios#readme"
 }
