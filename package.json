@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "alamofire": "git+https://github.com/mushinz/Alamofire.git#4.9.0"
+    "alamofire": "git+https://github.com/mushinz/Alamofire.git@4.9.0"
   },
   "name": "razer_thirdpartysdk_ios",
   "version": "1.0.0",
